@@ -240,3 +240,10 @@ defaults:
       comments: true
       share: true
       related: true
+      
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "More Info"
+  cta_url: "https://unsplash.com"
